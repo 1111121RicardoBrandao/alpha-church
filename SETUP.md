@@ -7,6 +7,7 @@ If you have `git` installed, you can do the following at the command-line-interf
 ```
 $ mkdir themes
 $ cd themes
+$ git init
 $ git submodule add https://github.com/funkydan2/alpha-church.git
 ```
 
